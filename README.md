@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 # S5condlast
 
@@ -13,7 +15,14 @@ BSIT student building practical web applications with modern tooling and real en
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
 
-</div>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="280" alt="Pixel Boy Coding" />
+
+</td>
+</tr>
+</table>
 
 ---
 
